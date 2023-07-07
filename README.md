@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ihor Niemyi</h1>
+<h1 align="center">Hi there👋, my name's Ihor Niemyi</h1>
 <h3 align="center">Beginner iOS Developer from Ukraine</h3>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&f=1&nofb=1&ipt=362690c4b69bf6c90eb663c8b859638541ed07a38f081731727bcea34d332867&ipo=images"> </a>
 
 <h4 align="left">I'm currently studying and planning to find my first job as a trainee iOS Developer soon. I want to find a team in which I will be happy to gain experience, knowledge and move towards new goals.</h4>
 
